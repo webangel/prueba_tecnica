@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PoW+B0ZFAr0ezacK3e0tAf2gJnVfXRYyMdulww8hqXI=",
+  "Source": "SB.Government.Api",
+  "BasePath": "_content/SB.Government.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

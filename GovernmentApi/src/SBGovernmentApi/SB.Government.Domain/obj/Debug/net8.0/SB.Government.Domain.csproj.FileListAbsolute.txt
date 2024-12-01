@@ -1,0 +1,11 @@
+D:\Repos\net-core\PRUEBA TECNICA\GovernmentApi\src\SBGovernmentApi\SB.Government.Domain\bin\Debug\net8.0\SB.Government.Domain.deps.json
+D:\Repos\net-core\PRUEBA TECNICA\GovernmentApi\src\SBGovernmentApi\SB.Government.Domain\bin\Debug\net8.0\SB.Government.Domain.dll
+D:\Repos\net-core\PRUEBA TECNICA\GovernmentApi\src\SBGovernmentApi\SB.Government.Domain\bin\Debug\net8.0\SB.Government.Domain.pdb
+D:\Repos\net-core\PRUEBA TECNICA\GovernmentApi\src\SBGovernmentApi\SB.Government.Domain\obj\Debug\net8.0\SB.Government.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\net-core\PRUEBA TECNICA\GovernmentApi\src\SBGovernmentApi\SB.Government.Domain\obj\Debug\net8.0\SB.Government.Domain.AssemblyInfoInputs.cache
+D:\Repos\net-core\PRUEBA TECNICA\GovernmentApi\src\SBGovernmentApi\SB.Government.Domain\obj\Debug\net8.0\SB.Government.Domain.AssemblyInfo.cs
+D:\Repos\net-core\PRUEBA TECNICA\GovernmentApi\src\SBGovernmentApi\SB.Government.Domain\obj\Debug\net8.0\SB.Government.Domain.csproj.CoreCompileInputs.cache
+D:\Repos\net-core\PRUEBA TECNICA\GovernmentApi\src\SBGovernmentApi\SB.Government.Domain\obj\Debug\net8.0\SB.Government.Domain.dll
+D:\Repos\net-core\PRUEBA TECNICA\GovernmentApi\src\SBGovernmentApi\SB.Government.Domain\obj\Debug\net8.0\refint\SB.Government.Domain.dll
+D:\Repos\net-core\PRUEBA TECNICA\GovernmentApi\src\SBGovernmentApi\SB.Government.Domain\obj\Debug\net8.0\SB.Government.Domain.pdb
+D:\Repos\net-core\PRUEBA TECNICA\GovernmentApi\src\SBGovernmentApi\SB.Government.Domain\obj\Debug\net8.0\ref\SB.Government.Domain.dll

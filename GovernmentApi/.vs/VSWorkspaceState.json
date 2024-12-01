@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\SBGovernmentApi",
+    "\\src\\SBGovernmentApi\\SB.Government.Api",
+    "\\src\\SBGovernmentApi\\SB.Government.Application",
+    "\\src\\SBGovernmentApi\\SB.Government.Domain",
+    "\\src\\SBGovernmentApi\\SB.Government.Infrastructure"
+  ],
+  "SelectedNode": "\\SB.GovernmentApi.sln",
+  "PreviewInSolutionExplorer": false
+}

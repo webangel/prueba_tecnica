@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\net-core\\PRUEBA TECNICA\\GovernmentApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1185D9B-E688-438F-84B3-C990E8C5924D}|src\\SBGovernmentApi\\SB.Government.Infrastructure\\SB.Government.Infrastructure.csproj|d:\\repos\\net-core\\prueba tecnica\\governmentapi\\src\\sbgovernmentapi\\sb.government.infrastructure\\repositories\\filedatagovernmententityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1185D9B-E688-438F-84B3-C990E8C5924D}|src\\SBGovernmentApi\\SB.Government.Infrastructure\\SB.Government.Infrastructure.csproj|solutionrelative:src\\sbgovernmentapi\\sb.government.infrastructure\\repositories\\filedatagovernmententityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20AFA0E8-2680-41E5-94B0-F1D499C50386}|src\\SBGovernmentApi\\SB.Government.Domain\\SB.Government.Domain.csproj|d:\\repos\\net-core\\prueba tecnica\\governmentapi\\src\\sbgovernmentapi\\sb.government.domain\\interfaces\\igovernmententityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20AFA0E8-2680-41E5-94B0-F1D499C50386}|src\\SBGovernmentApi\\SB.Government.Domain\\SB.Government.Domain.csproj|solutionrelative:src\\sbgovernmentapi\\sb.government.domain\\interfaces\\igovernmententityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20AFA0E8-2680-41E5-94B0-F1D499C50386}|src\\SBGovernmentApi\\SB.Government.Domain\\SB.Government.Domain.csproj|d:\\repos\\net-core\\prueba tecnica\\governmentapi\\src\\sbgovernmentapi\\sb.government.domain\\entities\\governmententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20AFA0E8-2680-41E5-94B0-F1D499C50386}|src\\SBGovernmentApi\\SB.Government.Domain\\SB.Government.Domain.csproj|solutionrelative:src\\sbgovernmentapi\\sb.government.domain\\entities\\governmententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CCF4D2-9894-4481-BFEF-2184B1B08915}|src\\SBGovernmentApi\\SB.Government.Application\\SB.Government.Application.csproj|d:\\repos\\net-core\\prueba tecnica\\governmentapi\\src\\sbgovernmentapi\\sb.government.application\\services\\governmententityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84CCF4D2-9894-4481-BFEF-2184B1B08915}|src\\SBGovernmentApi\\SB.Government.Application\\SB.Government.Application.csproj|solutionrelative:src\\sbgovernmentapi\\sb.government.application\\services\\governmententityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6EF7B7-432E-4AD1-957D-948D64F8621B}|src\\SBGovernmentApi\\SB.Government.Api\\SB.Government.Api.csproj|d:\\repos\\net-core\\prueba tecnica\\governmentapi\\src\\sbgovernmentapi\\sb.government.api\\controllers\\governmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6EF7B7-432E-4AD1-957D-948D64F8621B}|src\\SBGovernmentApi\\SB.Government.Api\\SB.Government.Api.csproj|solutionrelative:src\\sbgovernmentapi\\sb.government.api\\controllers\\governmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6EF7B7-432E-4AD1-957D-948D64F8621B}|src\\SBGovernmentApi\\SB.Government.Api\\SB.Government.Api.csproj|d:\\repos\\net-core\\prueba tecnica\\governmentapi\\src\\sbgovernmentapi\\sb.government.api\\controllers\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6EF7B7-432E-4AD1-957D-948D64F8621B}|src\\SBGovernmentApi\\SB.Government.Api\\SB.Government.Api.csproj|solutionrelative:src\\sbgovernmentapi\\sb.government.api\\controllers\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6EF7B7-432E-4AD1-957D-948D64F8621B}|src\\SBGovernmentApi\\SB.Government.Api\\SB.Government.Api.csproj|d:\\repos\\net-core\\prueba tecnica\\governmentapi\\src\\sbgovernmentapi\\sb.government.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6EF7B7-432E-4AD1-957D-948D64F8621B}|src\\SBGovernmentApi\\SB.Government.Api\\SB.Government.Api.csproj|solutionrelative:src\\sbgovernmentapi\\sb.government.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6EF7B7-432E-4AD1-957D-948D64F8621B}|src\\SBGovernmentApi\\SB.Government.Api\\SB.Government.Api.csproj|d:\\repos\\net-core\\prueba tecnica\\governmentapi\\src\\sbgovernmentapi\\sb.government.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E6EF7B7-432E-4AD1-957D-948D64F8621B}|src\\SBGovernmentApi\\SB.Government.Api\\SB.Government.Api.csproj|solutionrelative:src\\sbgovernmentapi\\sb.government.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6EF7B7-432E-4AD1-957D-948D64F8621B}|src\\SBGovernmentApi\\SB.Government.Api\\SB.Government.Api.csproj|d:\\repos\\net-core\\prueba tecnica\\governmentapi\\src\\sbgovernmentapi\\sb.government.api\\sb.government.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E6EF7B7-432E-4AD1-957D-948D64F8621B}|src\\SBGovernmentApi\\SB.Government.Api\\SB.Government.Api.csproj|solutionrelative:src\\sbgovernmentapi\\sb.government.api\\sb.government.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGovernmentEntityRepository.cs",
+              "DocumentMoniker": "D:\\Repos\\net-core\\PRUEBA TECNICA\\GovernmentApi\\src\\SBGovernmentApi\\SB.Government.Domain\\Interfaces\\IGovernmentEntityRepository.cs",
+              "RelativeDocumentMoniker": "src\\SBGovernmentApi\\SB.Government.Domain\\Interfaces\\IGovernmentEntityRepository.cs",
+              "ToolTip": "D:\\Repos\\net-core\\PRUEBA TECNICA\\GovernmentApi\\src\\SBGovernmentApi\\SB.Government.Domain\\Interfaces\\IGovernmentEntityRepository.cs",
+              "RelativeToolTip": "src\\SBGovernmentApi\\SB.Government.Domain\\Interfaces\\IGovernmentEntityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T00:09:35.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GovernmentEntity.cs",
+              "DocumentMoniker": "D:\\Repos\\net-core\\PRUEBA TECNICA\\GovernmentApi\\src\\SBGovernmentApi\\SB.Government.Domain\\Entities\\GovernmentEntity.cs",
+              "RelativeDocumentMoniker": "src\\SBGovernmentApi\\SB.Government.Domain\\Entities\\GovernmentEntity.cs",
+              "ToolTip": "D:\\Repos\\net-core\\PRUEBA TECNICA\\GovernmentApi\\src\\SBGovernmentApi\\SB.Government.Domain\\Entities\\GovernmentEntity.cs",
+              "RelativeToolTip": "src\\SBGovernmentApi\\SB.Government.Domain\\Entities\\GovernmentEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T00:09:13.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GovernmentController.cs",
+              "DocumentMoniker": "D:\\Repos\\net-core\\PRUEBA TECNICA\\GovernmentApi\\src\\SBGovernmentApi\\SB.Government.Api\\Controllers\\GovernmentController.cs",
+              "RelativeDocumentMoniker": "src\\SBGovernmentApi\\SB.Government.Api\\Controllers\\GovernmentController.cs",
+              "ToolTip": "D:\\Repos\\net-core\\PRUEBA TECNICA\\GovernmentApi\\src\\SBGovernmentApi\\SB.Government.Api\\Controllers\\GovernmentController.cs",
+              "RelativeToolTip": "src\\SBGovernmentApi\\SB.Government.Api\\Controllers\\GovernmentController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:26:47.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repos\\net-core\\PRUEBA TECNICA\\GovernmentApi\\src\\SBGovernmentApi\\SB.Government.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\SBGovernmentApi\\SB.Government.Api\\Program.cs",
+              "ToolTip": "D:\\Repos\\net-core\\PRUEBA TECNICA\\GovernmentApi\\src\\SBGovernmentApi\\SB.Government.Api\\Program.cs",
+              "RelativeToolTip": "src\\SBGovernmentApi\\SB.Government.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:15:26.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileDataGovernmentEntityRepository.cs",
+              "DocumentMoniker": "D:\\Repos\\net-core\\PRUEBA TECNICA\\GovernmentApi\\src\\SBGovernmentApi\\SB.Government.Infrastructure\\Repositories\\FileDataGovernmentEntityRepository.cs",
+              "RelativeDocumentMoniker": "src\\SBGovernmentApi\\SB.Government.Infrastructure\\Repositories\\FileDataGovernmentEntityRepository.cs",
+              "ToolTip": "D:\\Repos\\net-core\\PRUEBA TECNICA\\GovernmentApi\\src\\SBGovernmentApi\\SB.Government.Infrastructure\\Repositories\\FileDataGovernmentEntityRepository.cs",
+              "RelativeToolTip": "src\\SBGovernmentApi\\SB.Government.Infrastructure\\Repositories\\FileDataGovernmentEntityRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T16:36:10.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Repos\\net-core\\PRUEBA TECNICA\\GovernmentApi\\src\\SBGovernmentApi\\SB.Government.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\SBGovernmentApi\\SB.Government.Api\\appsettings.json",
+              "ToolTip": "D:\\Repos\\net-core\\PRUEBA TECNICA\\GovernmentApi\\src\\SBGovernmentApi\\SB.Government.Api\\appsettings.json",
+              "RelativeToolTip": "src\\SBGovernmentApi\\SB.Government.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-29T13:17:11.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SB.Government.Api.csproj",
+              "DocumentMoniker": "D:\\Repos\\net-core\\PRUEBA TECNICA\\GovernmentApi\\src\\SBGovernmentApi\\SB.Government.Api\\SB.Government.Api.csproj",
+              "RelativeDocumentMoniker": "src\\SBGovernmentApi\\SB.Government.Api\\SB.Government.Api.csproj",
+              "ToolTip": "D:\\Repos\\net-core\\PRUEBA TECNICA\\GovernmentApi\\src\\SBGovernmentApi\\SB.Government.Api\\SB.Government.Api.csproj",
+              "RelativeToolTip": "src\\SBGovernmentApi\\SB.Government.Api\\SB.Government.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-29T13:16:41.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GovernmentEntityService.cs",
+              "DocumentMoniker": "D:\\Repos\\net-core\\PRUEBA TECNICA\\GovernmentApi\\src\\SBGovernmentApi\\SB.Government.Application\\Services\\GovernmentEntityService.cs",
+              "RelativeDocumentMoniker": "src\\SBGovernmentApi\\SB.Government.Application\\Services\\GovernmentEntityService.cs",
+              "ToolTip": "D:\\Repos\\net-core\\PRUEBA TECNICA\\GovernmentApi\\src\\SBGovernmentApi\\SB.Government.Application\\Services\\GovernmentEntityService.cs",
+              "RelativeToolTip": "src\\SBGovernmentApi\\SB.Government.Application\\Services\\GovernmentEntityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T23:25:16.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "D:\\Repos\\net-core\\PRUEBA TECNICA\\GovernmentApi\\src\\SBGovernmentApi\\SB.Government.Api\\Controllers\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "src\\SBGovernmentApi\\SB.Government.Api\\Controllers\\JwtTokenGenerator.cs",
+              "ToolTip": "D:\\Repos\\net-core\\PRUEBA TECNICA\\GovernmentApi\\src\\SBGovernmentApi\\SB.Government.Api\\Controllers\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "src\\SBGovernmentApi\\SB.Government.Api\\Controllers\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:47:46.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

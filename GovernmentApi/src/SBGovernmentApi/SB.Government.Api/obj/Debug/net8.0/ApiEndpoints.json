@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "SB.Api.Controllers.GovernmentController",
+    "Method": "GetAll",
+    "RelativePath": "api/Government",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SB.Api.Controllers.GovernmentController",
+    "Method": "Create",
+    "RelativePath": "api/Government",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "SB.Government.Domain.GovernmentEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SB.Api.Controllers.GovernmentController",
+    "Method": "GetById",
+    "RelativePath": "api/Government/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SB.Api.Controllers.GovernmentController",
+    "Method": "Update",
+    "RelativePath": "api/Government/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "entity",
+        "Type": "SB.Government.Domain.GovernmentEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SB.Api.Controllers.GovernmentController",
+    "Method": "Delete",
+    "RelativePath": "api/Government/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

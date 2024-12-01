@@ -1,0 +1,15 @@
+D:\Repos\net-core\PRUEBA TECNICA\GovernmentApi\src\SBGovernmentApi\SB.Government.Application\bin\Debug\net8.0\SB.Government.Application.deps.json
+D:\Repos\net-core\PRUEBA TECNICA\GovernmentApi\src\SBGovernmentApi\SB.Government.Application\bin\Debug\net8.0\SB.Government.Application.dll
+D:\Repos\net-core\PRUEBA TECNICA\GovernmentApi\src\SBGovernmentApi\SB.Government.Application\bin\Debug\net8.0\SB.Government.Application.pdb
+D:\Repos\net-core\PRUEBA TECNICA\GovernmentApi\src\SBGovernmentApi\SB.Government.Application\bin\Debug\net8.0\SB.Government.Domain.dll
+D:\Repos\net-core\PRUEBA TECNICA\GovernmentApi\src\SBGovernmentApi\SB.Government.Application\bin\Debug\net8.0\SB.Government.Domain.pdb
+D:\Repos\net-core\PRUEBA TECNICA\GovernmentApi\src\SBGovernmentApi\SB.Government.Application\obj\Debug\net8.0\SB.Government.Application.csproj.AssemblyReference.cache
+D:\Repos\net-core\PRUEBA TECNICA\GovernmentApi\src\SBGovernmentApi\SB.Government.Application\obj\Debug\net8.0\SB.Government.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\net-core\PRUEBA TECNICA\GovernmentApi\src\SBGovernmentApi\SB.Government.Application\obj\Debug\net8.0\SB.Government.Application.AssemblyInfoInputs.cache
+D:\Repos\net-core\PRUEBA TECNICA\GovernmentApi\src\SBGovernmentApi\SB.Government.Application\obj\Debug\net8.0\SB.Government.Application.AssemblyInfo.cs
+D:\Repos\net-core\PRUEBA TECNICA\GovernmentApi\src\SBGovernmentApi\SB.Government.Application\obj\Debug\net8.0\SB.Government.Application.csproj.CoreCompileInputs.cache
+D:\Repos\net-core\PRUEBA TECNICA\GovernmentApi\src\SBGovernmentApi\SB.Government.Application\obj\Debug\net8.0\SB.Gover.8A9F2434.Up2Date
+D:\Repos\net-core\PRUEBA TECNICA\GovernmentApi\src\SBGovernmentApi\SB.Government.Application\obj\Debug\net8.0\SB.Government.Application.dll
+D:\Repos\net-core\PRUEBA TECNICA\GovernmentApi\src\SBGovernmentApi\SB.Government.Application\obj\Debug\net8.0\refint\SB.Government.Application.dll
+D:\Repos\net-core\PRUEBA TECNICA\GovernmentApi\src\SBGovernmentApi\SB.Government.Application\obj\Debug\net8.0\SB.Government.Application.pdb
+D:\Repos\net-core\PRUEBA TECNICA\GovernmentApi\src\SBGovernmentApi\SB.Government.Application\obj\Debug\net8.0\ref\SB.Government.Application.dll
